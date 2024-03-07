@@ -21,6 +21,11 @@ public class Day1 {
 	public void secondTest() {
 		System.out.println("Bye!");
 	}
+	
+	@Test
+	public void fourthTest() {
+		System.out.println("Fourth!");
+	}
 
 
 }

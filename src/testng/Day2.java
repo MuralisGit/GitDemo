@@ -19,5 +19,10 @@ public class Day2 {
 		System.out.println(usrnm);
 		
 	}
-
+	
+	@Test
+	public void fifthTest() {
+		System.out.println("Fifth!");
+		
+	}
 }
