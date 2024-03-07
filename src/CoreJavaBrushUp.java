@@ -25,6 +25,7 @@ public class CoreJavaBrushUp {
 		System.out.println(dec);
 		System.out.println(dec2);
 		System.out.println(myCard);
+		System.out.println("Git updates in GitDemo");
 		
 		int arr[] = new int[5];
 		arr[0] = 1;
