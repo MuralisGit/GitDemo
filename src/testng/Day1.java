@@ -26,6 +26,10 @@ public class Day1 {
 	public void fourthTest() {
 		System.out.println("Fourth!");
 	}
-
+	
+	@Test
+	public void sixthTest() {
+		System.out.println("Sixth!");
+	}
 
 }
